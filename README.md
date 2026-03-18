@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gaëlle%20Poisson&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 ## 🚀 À propos de moi
-Actuellement en deuxième année de BUT MMI, parcours développement web et dispositifs interactifs. Je suis à la recherche d'un stage de 10 semaines dans le numérique. A partir du 13 avril 2026.
+Actuellement en deuxième année de BUT MMI, parcours développement web et dispositifs interactifs. Je suis à la recherche d'une alternance à partir de septembre 2026, dans le secteur du numérique et plus précisement en développement web.
 
 ---
 
